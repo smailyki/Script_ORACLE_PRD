@@ -1,0 +1,44 @@
+# Ce fichier viminfo a été généré par Vim 8.2.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Historique ligne de commande (chronologie décroissante) :
+:wq!
+|2,0,1773865600,,"wq!"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+
+# Marques dans le fichier :
+'0  77  0  ~/setup.sh
+|4,48,77,0,1773865601,"~/setup.sh"
+
+# Liste de sauts (le plus récent en premier) :
+-'  77  0  ~/setup.sh
+|4,39,77,0,1773865601,"~/setup.sh"
+-'  1  0  ~/setup.sh
+|4,39,1,0,1773865594,"~/setup.sh"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/setup.sh
+	*	1773865599	0
+	"	77	0
+	^	77	0
+	.	76	29
+	+	76	29
