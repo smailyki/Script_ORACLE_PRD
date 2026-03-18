@@ -1,0 +1,21 @@
+awscliv2.zip
+aws/
+terraform-test/
+anaconda-ks.cfg
+setup.sh
+*.zip
+
+# AWS & Cloud credentials
+.aws/
+*.pem
+*.key
+credentials
+terraform.tfstate
+terraform.tfstate.backup
+terraform-test/
+awscliv2.zip
+*.zip
+
+# Fichiers système Linux
+anaconda-ks.cfg
+setup.sh
